@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Information 
+A web app that displays infinite images using React From Unsplash.
+
+Netlify deployed link - https://vigilant-bhabha-cf52b4.netlify.app
+LinkedIn Profile - https://www.linkedin.com/in/dhogaivannan-c-57a889148/
+
 ## Available Scripts
 
 In the project directory, you can run:
